@@ -1,0 +1,49 @@
+,Dataset,Demographic,Verification Accuracy,Type
+0,Realism Celebrities,Asian,0.971153846153846,Any
+1,Realism Celebrities,Black,0.9487179487179488,Any
+2,Realism Celebrities,Indian,0.9487179487179488,Any
+3,Realism Celebrities,White,0.9743589743589745,Any
+4,Realism Celebrities,Male,0.9592,Any
+5,Realism Celebrities,NOTMale,0.9535256410256412,Any
+6,Realism Celebrities,Asian,0.8044871794871795,Same
+7,Realism Celebrities,Black,0.782051282051282,Same
+8,Realism Celebrities,Indian,0.8269230769230769,Same
+9,Realism Celebrities,White,0.9102564102564102,Same
+10,Realism Celebrities,Male,0.9512,Same
+11,Realism Celebrities,NOTMale,0.9246794871794872,Same
+720,SD2.1 Celebrities,Asian,0.9439102564102564,Any
+721,SD2.1 Celebrities,Black,0.966346153846154,Any
+722,SD2.1 Celebrities,Indian,0.9615384615384616,Any
+723,SD2.1 Celebrities,White,0.9759615384615384,Any
+724,SD2.1 Celebrities,Male,0.9732,Any
+725,SD2.1 Celebrities,NOTMale,0.968,Any
+726,SD2.1 Celebrities,Asian,0.8717948717948718,Same
+727,SD2.1 Celebrities,Black,0.935897435897436,Same
+728,SD2.1 Celebrities,Indian,0.9487179487179488,Same
+729,SD2.1 Celebrities,White,0.9743589743589745,Same
+730,SD2.1 Celebrities,Male,0.9732,Same
+731,SD2.1 Celebrities,NOTMale,0.9584,Same
+1206,Realism Non-Celebrities,Asian,0.9647435897435898,Any
+1207,Realism Non-Celebrities,Black,0.9935897435897436,Any
+1208,Realism Non-Celebrities,Indian,0.9871794871794872,Any
+1209,Realism Non-Celebrities,White,0.9935897435897436,Any
+1210,Realism Non-Celebrities,Male,0.9868,Any
+1211,Realism Non-Celebrities,NOTMale,0.9816,Any
+1212,Realism Non-Celebrities,Asian,0.8589743589743589,Same
+1213,Realism Non-Celebrities,Black,0.9791666666666666,Same
+1214,Realism Non-Celebrities,Indian,0.9583333333333334,Same
+1215,Realism Non-Celebrities,White,0.9919871794871796,Same
+1216,Realism Non-Celebrities,Male,0.9868,Same
+1217,Realism Non-Celebrities,NOTMale,0.9664,Same
+1278,LFW,Asian,0.9948,Any
+1279,LFW,Black,0.9984,Any
+1280,LFW,Indian,1.0,Any
+1281,LFW,White,0.98815,Any
+1282,LFW,Male,0.990625,Any
+1283,LFW,NOTMale,0.9814,Any
+1284,LFW,Asian,0.962,Same
+1285,LFW,Black,0.9936,Same
+1286,LFW,Indian,1.0,Same
+1287,LFW,White,0.98825,Same
+1288,LFW,Male,0.9905,Same
+1289,LFW,NOTMale,0.9804,Same
